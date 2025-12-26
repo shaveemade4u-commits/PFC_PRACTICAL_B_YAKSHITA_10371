@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+    
+    // B_YAKSHITA_10371
     int a, b, i;
 
     printf("Enter the starting number (a): ");
@@ -15,3 +17,7 @@ int main() {
     printf("\n");
     return 0;
 }
+//Output
+//Enter the starting number (a): 4
+//Enter the ending number (b): 9
+//Numbers from 4 to 9 are: 4 5 6 7 8 9 
