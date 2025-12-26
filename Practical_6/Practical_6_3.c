@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+
+    //B_YAKSHITA_10371
     int correct_pin = 1234; 
     int entered_pin;        
     int attempts = 0;       
@@ -23,3 +25,13 @@ int main() {
     }
     return 0; 
 }
+//Output
+//Enter your 4-digit PIN: 4566
+
+//Incorrect PIN. You have 2 attempts remaining.
+//Enter your 4-digit PIN: 8764
+
+//Incorrect PIN. You have 1 attempts remaining.
+//Enter your 4-digit PIN: 1234
+
+//PIN authenticated successfully! Welcome.
