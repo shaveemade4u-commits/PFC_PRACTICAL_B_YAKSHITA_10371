@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int sumOfDigits(int n) {
+
+    //B_YAKSHITA_10371
     int sum = 0;
     while(n > 0) {
         sum += n % 10;
@@ -17,3 +19,6 @@ int main() {
     printf("Sum of digits = %d", sumOfDigits(n));
     return 0;
 }
+//Output
+//Enter number: 5436
+//Sum of digits = 18
