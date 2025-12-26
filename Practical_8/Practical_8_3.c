@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 void printTriangle(int n) {
+
+    //B_YAKSHITA_10371
     int i, j;
     for(i = 1; i <= n; i++) {
         for(j = 1; j <= i; j++)
@@ -17,3 +19,10 @@ int main() {
     printTriangle(n);
     return 0;
 }
+//Output
+//Enter n: 5
+//*
+//**
+//***
+//****
+//*****
