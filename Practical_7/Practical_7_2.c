@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+
+    //B_YAKSHITA_10371
     int n, i, j, s;
     printf("Enter n: ");
     scanf("%d", &n);
@@ -22,3 +24,14 @@ int main() {
     }
     return 0;
 }
+//Output
+//Enter n: 5
+//*********
+// *******
+//  *****
+//   ***
+//    *
+//   ***
+//  *****
+// *******
+//*********
