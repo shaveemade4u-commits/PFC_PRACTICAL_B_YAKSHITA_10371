@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+
+    //B_YAKSHITA_10371
     int r, c, i, j, a[10][10], sum;
 
     printf("Enter rows and columns: ");
@@ -23,3 +25,10 @@ int main() {
 
     return 0;
 }
+//Output
+//Enter rows and columns: 2 3
+//Enter array elements:
+//2 5 6
+//5 7 9
+//Sum of row 1 = 13
+//Sum of row 2 = 21
