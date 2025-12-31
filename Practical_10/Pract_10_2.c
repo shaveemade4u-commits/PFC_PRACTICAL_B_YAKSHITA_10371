@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+
+    //B_YAKSHITA_10371
     int n, i, j, a[10][10], sum = 0;
 
     printf("Enter order of square matrix: ");
@@ -21,3 +23,10 @@ int main() {
 
     return 0;
 }
+//Output
+//Enter order of square matrix: 3
+//Enter array elements:
+//3 5 2 
+//7 8 4
+//8 5 3
+//Sum of diagonal elements = 14
