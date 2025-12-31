@@ -20,4 +20,10 @@ int main() {
 
     return 0;
 }
+//Output
+//Enter number of elements: 5
+//Enter array elements:
+//3 5 2 7 6
+//Reversed array:
+//6 7 2 5 3
 
