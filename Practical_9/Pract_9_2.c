@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+
+    // B_YAKSHITA_10371
     int n, i;
     int arr[50];
     int max, min;
@@ -33,4 +35,5 @@ int main() {
 
     return 0;
 }
+
 
