@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+
+    // B_YAKSHITA_10371
     int n, i, arr[50], sum = 0;
 
     printf("Enter number of elements: ");
@@ -20,3 +22,4 @@ int main() {
 
     return 0;
 }
+
