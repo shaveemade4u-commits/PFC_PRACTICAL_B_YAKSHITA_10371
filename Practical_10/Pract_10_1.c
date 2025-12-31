@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+
+    // B_YAKSHITA_10371
     int r, c, i, j, a[10][10], max, min;
 
     printf("Enter rows and columns: ");
@@ -29,3 +31,10 @@ int main() {
 
     return 0;
 }
+//Output
+//Enter rows and columns: 2 3
+//Enter array elements:
+//1 3 5
+//7 9 4
+//Maximum = 9
+//Minimum = 1
