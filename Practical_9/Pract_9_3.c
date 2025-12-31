@@ -22,4 +22,9 @@ int main() {
 
     return 0;
 }
+//Output
+//Enter number of elements: 4
+//Enter array elements:
+//5 6 4 8
+//Sum of even elements = 18
 
